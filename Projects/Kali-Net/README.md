@@ -7,7 +7,7 @@ Kali-Net was written in C.
 
 # Photos
 
-![Alt Text](https://z.zz.fo/D9G9n.png)
+![Menu](https://z.zz.fo/D9G9n.png)![Proof](https://z.zz.fo/vWj5Q.png)
 
 
 
